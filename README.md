@@ -1,2 +1,2 @@
 # hello-world
-this is my first repository
+i am currently building an API that serve a school management fontend built with javascript react
